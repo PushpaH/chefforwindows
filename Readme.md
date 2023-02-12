@@ -12,7 +12,7 @@ How to use/test recipes?
 
 <u>List of recipes</u>
 
-1.windows_firewall
+<b>1.windows_firewall</b>
 
 Following are windows firewall configuration recipes
  <details>
@@ -22,7 +22,7 @@ This recipe can be used to create windows firewall inbound rule with local port
 
 </details>
 
-2.environment_variables
+<b>2.environment_variables</b>
 
 Following are environment variable configuration recipes
 
@@ -30,5 +30,27 @@ Following are environment variable configuration recipes
     <summary>add_env_var.rb</summary>
 
 This recipe can be used to create environment variables
+
+</details>
+
+<b>3.registry_keys</b>
+
+Following are registry key configuration recipes
+
+ <details>
+    <summary>add_registry_key.rb</summary>
+
+This recipe can be used to update value of a registry key
+
+</details>
+
+<b>4.windows_services</b>
+
+Following are service configuration recipes
+
+ <details>
+    <summary>start_service.rb</summary>
+
+This recipe can be used to start windows service
 
 </details>
