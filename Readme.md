@@ -14,7 +14,7 @@ How to use/test recipes?
 
 <b>1.windows_firewall</b>
 
-Following are windows firewall configuration recipes
+Following is windows firewall configuration recipe
  <details>
     <summary>add_inbound_rule.rb</summary>
 
@@ -24,7 +24,7 @@ This recipe can be used to create windows firewall inbound rule with local port
 
 <b>2.environment_variables</b>
 
-Following are environment variable configuration recipes
+Following is environment variable configuration recipe
 
  <details>
     <summary>add_env_var.rb</summary>
@@ -35,7 +35,7 @@ This recipe can be used to create environment variables
 
 <b>3.registry_keys</b>
 
-Following are registry key configuration recipes
+Following is registry key configuration recipe
 
  <details>
     <summary>add_registry_key.rb</summary>
@@ -46,11 +46,22 @@ This recipe can be used to update value of a registry key
 
 <b>4.windows_services</b>
 
-Following are service configuration recipes
+Following is service configuration recipe
 
  <details>
     <summary>start_service.rb</summary>
 
 This recipe can be used to start windows service
+
+</details>
+
+<b>5.PowerShell</b>
+
+Following is sample Powershell recipe
+
+ <details>
+    <summary>extract_zip.rb</summary>
+
+This recipe can be used to extract a zip file
 
 </details>
