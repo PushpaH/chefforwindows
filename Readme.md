@@ -65,3 +65,14 @@ Following is sample Powershell recipe
 This recipe can be used to extract a zip file
 
 </details>
+
+<b>6.Ruby_block</b>
+
+Following is a sample recipe with ruby_block
+
+ <details>
+    <summary>file_rename.rb</summary>
+
+This recipe can be used to rename a file or folder using ruby commands inside Chef recipe
+
+</details>
